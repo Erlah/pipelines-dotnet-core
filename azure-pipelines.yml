@@ -15,4 +15,4 @@ stages:
           - task: UseDotNet@2
             inputs:
               packageType: 'sdk'
-              version: '5.0.0'
+              version: '2.x'
